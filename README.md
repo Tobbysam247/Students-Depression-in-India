@@ -86,3 +86,7 @@ The Power BI dashboard includes the following:
 - Reduce stigma around mental health conversations
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Tobbysam247/Students-Depression-in-India/blob/main/Students'%20Depression%20in%20India.%20Page%201.png?raw=true)
+![Dashboard Screenshot](https://github.com/Tobbysam247/Students-Depression-in-India/blob/main/Students'%20Depression%20in%20India.%20Page%202.png?raw=true)
