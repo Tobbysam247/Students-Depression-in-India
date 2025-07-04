@@ -1,8 +1,8 @@
-# 📊 Students' Depression in India
+# Students' Depression in India
 
 This project explored the state of mental health among 27,901 students in India, using data-driven insights to uncover patterns and key contributing factors to depression. The dashboard was built with Power BI, and the dataset was thoroughly cleaned and transformed in Microsoft Excel prior to visualization.
 
-🔗 **Live Dashboard**: [Click here to view on Power BI](https://app.powerbi.com/links/it5p4TM9me?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare)
+[Click here to view on Power BI](https://app.powerbi.com/links/it5p4TM9me?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare)
 
 ---
 
